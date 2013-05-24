@@ -1,5 +1,6 @@
 # StringNumber
 
+[![Gem Version](https://badge.fury.io/rb/string_number.png)](https://rubygems.org/gems/string_number)
 [![Build Status](https://travis-ci.org/gabynaiman/string_number.png?branch=master)](https://travis-ci.org/gabynaiman/string_number)
 [![Coverage Status](https://coveralls.io/repos/gabynaiman/string_number/badge.png)](https://coveralls.io/r/gabynaiman/string_number)
 [![Code Climate](https://codeclimate.com/github/gabynaiman/string_number.png)](https://codeclimate.com/github/gabynaiman/string_number)
