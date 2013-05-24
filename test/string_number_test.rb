@@ -85,8 +85,10 @@ class TestStringNumber < Test::Unit::TestCase
     assert_equal StringNumber.new('A'), StringNumber.new('A')
     assert_equal StringNumber.new('A'), StringNumber[1]
     assert_equal [StringNumber.new('A')], [StringNumber[1]]
+    assert StringNumber.new('A').eql? StringNumber.new('A')
 
     assert_not_equal StringNumber.new('A'), StringNumber.new('B')
+    refute StringNumber.new('A').eql? StringNumber.new('B')
   end
 
 end

@@ -1,6 +1,9 @@
 # StringNumber
 
 [![Build Status](https://travis-ci.org/gabynaiman/string_number.png?branch=master)](https://travis-ci.org/gabynaiman/string_number)
+[![Coverage Status](https://coveralls.io/repos/gabynaiman/string_number/badge.png)](https://coveralls.io/r/gabynaiman/string_number)
+[![Code Climate](https://codeclimate.com/github/gabynaiman/string_number.png)](https://codeclimate.com/github/gabynaiman/string_number)
+[![Dependency Status](https://gemnasium.com/gabynaiman/string_number.png)](https://gemnasium.com/gabynaiman/string_number)
 
 Strings as a numbers
 
